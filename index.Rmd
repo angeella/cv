@@ -3,7 +3,7 @@ title: "Angela Andreella"
 author: Angela Andreella
 date: "`r Sys.Date()`"
 output:
-  pagedown::html_resume:    
+  pagedown::html_resume:
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 ---
@@ -64,11 +64,13 @@ Another project is about a permutation approach to the [All Resolution Inference
 
 **INTERESTS**:
 
+::: concise
 - High Dimensional Statistics
 - Multiple Testing
 - Permutation Tests
 - Procrustes Methods
 - Statistic applied in Neuroscience
+:::
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
