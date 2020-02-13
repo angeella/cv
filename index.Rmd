@@ -1,0 +1,349 @@
+---
+title: "Angela Andreella"
+author: Angela Andreella
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:    
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Angela Andreella](img/photo.png){width=60%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> a.andreella8@gmail.com
+- <i class="fa fa-envelope"></i> angela.andreella@phd.unipd.it
+- <i class="fa fa-github"></i> [github.com/angeella](https://github.com/angeella)
+- <i class="fa fa-twitter"></i> [angeella](https://twitter.com/angeella)
+- <i class="fa fa-globe"></i> [angelaandreella.netlify.com](https://angelaandreella.netlify.com/)
+
+Languages {#skills}
+--------------------------------------------------------------------------------
+
+- **Professional proficiency**: Italian (mother tongue), English, Spanish
+
+- **Elementary proficiency**: French, Catalan
+
+Computer Skills {#skills}
+--------------------------------------------------------------------------------
+
+- **Statistical Packages**: R Software - SPSS - SAS - STATA
+
+- **Languages**: R - Python - Matlab - C++ - Markdown - SQL 
+
+- **Other software**: LaTeX - Gimp - FSL - GIT
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+Angela Andreella {#title}
+--------------------------------------------------------------------------------
+
+### PhD Student - [University of Padova](www.unipd.it)
+
+I am a Ph.D. student at the Department of Statistical Sciences of the University of Padova [Cycle XXXIII](https://www.stat.unipd.it/ricerca/cicli-attivi). I am working with Professor [Livio Finos](http://livioivil.github.io/) about statistical methods that can improve the analysis in the Neuroscience field. Mainly, my interest is to connect the psychological and statistical areas to improve both aspects. For that, I am a member of the [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/) group at the University of Padua.
+
+A first project is about a spatial regularization of the Procrustes method used in the alignment of brain data coming from different subjects. I am collaborating with Professor [James Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html) from the Department of Psychological and Brain Sciences at Dartmouth College and with the  [Haxby Lab](http://haxbylab.dartmouth.edu/index.html).
+
+Another project is about a permutation approach to the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) under also the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the department of Psychology at Leiden University.
+
+**INTERESTS**:
+
+- High Dimensional Statistics
+- Multiple Testing
+- Permutation Tests
+- Procrustes Methods
+- Statistic applied in Neuroscience
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### University of Padua
+
+PhD Student  
+
+Padua, Italy
+
+10/2017 – now
+
+Thesis: Multivariate analysis in functional magnetic resonance imaging (fMRI) data
+
+### University of Padua
+
+M.S. in Statistical Science - 104
+
+Padua, Italy
+
+10/2013 – 03/2016
+
+Thesis: The Catalan National Movement analyzed by Twitter data.
+
+### University of Padua
+
+B.S. in Statistical Science - 110 
+
+Padua, Italy
+
+10/2010 – 04/2013
+
+Thesis: Twitter Sentiment Analysis in Monti's 2013 election campaign.
+
+Study visits {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Visiting PHD Student
+
+LUMC, Department of Biomedical Data Sciences. 
+
+Leiden, Netherlands.
+
+04/2019 - 07/2019
+
+### Visiting PHD Student
+
+Dartmouth College, Department of Psychological and Brain Sciences.
+
+Hanover, NH, USA.
+
+01/2019 - 04/2019
+
+### Erasmus Program
+
+Universitat de Barcelona, Department of Mathematics and Statistics.
+
+Barcelona, Spain.
+
+09/2013 - 07/2014
+
+Research and Internship Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Pre-Graduate Intership
+
+Stazione Zoologica Anton Dohrn
+
+Naples, Italy
+
+01/2016 - 03/2016
+
+### Pre-Graduate Intership
+
+Universitat Politecnica de Catalunya
+
+Barcelona, Spain
+
+06/2014 - 06/2015
+
+Educational Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Psicostat
+
+University of Padua
+
+Padua, Italy
+
+2017 - Present
+
+### Interactive visualisation with R Shiny
+
+Leiden University
+
+Leiden, Netherlands.
+
+2019
+
+### Stochastic calculus of variations and normal approximations
+
+27th Jyväskylä Summer School
+
+Jyvaskyla, Finland
+
+2017
+
+### Value of information analysis in spatial model
+
+27th Jyväskylä Summer School
+
+Jyvaskyla, Finland
+
+2017
+
+### Online Social Media Analytics
+
+27th Jyväskylä Summer School
+
+Jyvaskyla, Finland
+
+2017
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+
+### Permutation-based closed testing in fMRI data.
+
+To be submitted
+
+N/A
+
+2019
+
+**Andreella, A.**, Goeman, J., Weeda, W., Hemerik, J., Solari, A., and Finos, L.
+
+### Modelling the Procrustes Problem inserting Prior Information with an application to fMRI Studies.
+
+To be submitted
+
+N/A
+
+2019
+
+**Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
+
+### How to improve the functional alignment of fMRI data usingspatial brain information?
+
+To be submitted
+
+N/A
+
+2019
+
+**Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
+
+### Altered syntactic abilities in rst episode patients: An inner phenomenon characterizing psychosis. European Psychiatry.
+
+European Psychiatry [doi: 10.1016/j.eurpsy.2019.08.001](https://doi.org/10.1016/j.eurpsy.2019.08.001)
+
+N/A
+
+2019
+
+Delvecchio, G., Caletti, E., Perlini, C., Siri, F. M., **Andreella, A.**, Finos, F., Bellani, M., Fabbro, F., Lasalvia, A., Bonetto, C., Cristofalo, D., Scocco, P., D'Agostino, A., Torresani, S., Imbesi, M., bellini, F., Veronese, A., Bressi, V., and Brambilla, P. 
+
+### Prosody abilities in a large sample of affective and non-affective first episode psychosis patients.
+
+Comprehensive Psychiatry [doi: 10.1016/j.comppsych.2018.07.004](https://doi.org/10.1016/j.comppsych.2018.07.004)
+
+N/A
+
+2018
+
+Caletti, E., Delvecchio, G., **Andreella, A.**, Finos, L., Perlini, C., Tavano, A., Lasalvia, A.,  Bonetto, C., Cristofalo, D., Lamonaca, D., Ceccato, C., Pileggi, F., FaustoMazzi, F., Santonastaso, P., Ruggeri, M., Bellani, M., and Brambilla, P.
+
+Talks {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Quot capita, tot sententiae. Don't Forget to Use Anatomical Features into the Alignment of fMRI Data
+
+Cognitive Science Arena. 
+
+Brixen, Italy
+
+02/2020
+
+### A Statistical approach to the alignment of fMRI data
+
+6th European Student Conference on Behaviour & Cognition 
+
+Padua, Italy
+
+09/2019
+
+### First steps with Python
+
+Psicostat 3.1
+
+Padua, Italy
+
+12/2019
+
+### A Statistical approach to the alignment of fMRI data
+
+12th IBS - Italian Region conference
+
+Naples, Italy
+
+07/2019
+
+### A Statistical approach to the alignment of fMRI data
+
+HighDim reading club
+
+Leiden, Netherlands
+
+06/2019
+
+### A Statistical approach to the alignment of fMRI data
+
+Psicostat 3.0
+
+Padua, Italy
+
+04/2019
+
+### A Statistical approach to the alignment of fMRI data
+
+Haxby Lab
+
+Hanover, New Hampshire, USA
+
+02/2019
+
+Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### A Statistical approach to the alignment of fMRI data
+
+Zero Tre, Prospettive e Nuove Ricerche in Psicometria
+
+Padua, Italy
+
+10/2019
+
+Memberships {data-icon=user}
+--------------------------------------------------------------------------------
+
+### Member of the Italian Region of the International Biometrical Society
+
+[Italian Region of the International Biometric Society](https://ibs-italy.org/?page_id=360&lang=it)
+
+N/A
+
+N/A
+
+Other Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Data analyst
+
+[Optima Italia](http://www.optimaitalia.com/)
+
+Naples, Italy
+
+06/2016 – 07/2017
+
+Honours and awards {data-icon=award}
+--------------------------------------------------------------------------------
+
+### Scholarship for excellence by the University of Padua
+
+N/A
+
+N/A
+
+2012
