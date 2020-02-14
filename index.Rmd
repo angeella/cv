@@ -62,15 +62,16 @@ One project is about a spatial regularization of the Procrustes method used in t
 
 Another project is about a permutation approach of the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) method under the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the Department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the Department of Psychology at Leiden University.
 
+I am also collaborating with [Paolo Brambilla](https://orcid.org/0000-0002-4021-8456) and [Giuseppe Delvecchio](https://orcid.org/0000-0003-4750-1980) on various psychiatrical and psychological projects.
+
 **INTERESTS**:
 
 ::: concise
-- High Dimensional Statistics
-- Multiple Testing
-- Permutation Tests
-- Procrustes Methods
-- Statistic applied in Neuroscience
-- Multivariate analysis
+- High Dimensional Statistics in Neuroscience 
+- Multiple Testing in Psychology, Psychiatry and Neuroscience 
+- Permutation Tests in Psychology, Psychiatry and Neuroscience 
+- Procrustes Methods in Neuroscience
+- Multivariate analysis in Psychology and Psychiatry
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
