@@ -77,9 +77,9 @@ I am also collaborating with [Paolo Brambilla](https://orcid.org/0000-0002-4021-
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### University of Padua
+### [University of Padova](www.unipd.it)
 
-PhD Student  
+[PhD Student](http://www.stat.unipd.it/ricerca/angela-andreella)
 
 Padua, Italy
 
@@ -87,7 +87,7 @@ Padua, Italy
 
 Thesis: Multivariate analysis in functional magnetic resonance imaging (fMRI) data
 
-### University of Padua
+### [University of Padova](www.unipd.it)
 
 M.S. in Statistical Science - 104
 
@@ -97,7 +97,7 @@ Padua, Italy
 
 Thesis: The Catalan National Movement analyzed by Twitter data.
 
-### University of Padua
+### [University of Padova](www.unipd.it)
 
 B.S. in Statistical Science - 110 
 
@@ -112,7 +112,7 @@ Study visits {data-icon=graduation-cap data-concise=true}
 
 ### Visiting PhD Student
 
-LUMC, Department of Biomedical Data Sciences. 
+[LUMC](https://www.lumc.nl/), Department of Biomedical Data Sciences. 
 
 Leiden, Netherlands.
 
@@ -120,7 +120,7 @@ Leiden, Netherlands.
 
 ### Visiting PhD Student
 
-Dartmouth College, Department of Psychological and Brain Sciences.
+[Dartmouth College](https://home.dartmouth.edu/), Department of Psychological and Brain Sciences.
 
 Hanover, NH, USA.
 
@@ -128,7 +128,7 @@ Hanover, NH, USA.
 
 ### Erasmus Program
 
-Universitat de Barcelona, Department of Mathematics and Statistics.
+[Universitat de Barcelona](https://www.ub.edu/web/ub/ca/index.html), Department of Mathematics and Statistics.
 
 Barcelona, Spain.
 
@@ -139,7 +139,7 @@ Research and Internship Experience {data-icon=laptop}
 
 ### Pre-Graduate Intership
 
-Stazione Zoologica Anton Dohrn
+[Stazione Zoologica Anton Dohrn](http://www.szn.it/index.php/en/)
 
 Naples, Italy
 
@@ -147,16 +147,53 @@ Naples, Italy
 
 ### Pre-Graduate Intership
 
-Universitat Politecnica de Catalunya
+[Universitat Politecnica de Catalunya](https://www.upc.edu/ca)
 
 Barcelona, Spain
 
 06/2014 - 06/2015
 
+Working Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Private Tutor
+
+[Superprof](https://www.superprof.it/dottoranda-scienze-statistiche-disponibile-per-ripetizioni-statistica-matematica-per-scuole-ogni-livello-per-studenti.html)
+
+Italy
+
+09/2015 – now
+
+### Data analyst
+
+[Optima Italia](http://www.optimaitalia.com/)
+
+Naples, Italy
+
+06/2016 – 07/2017
+
+### IT Consultant
+
+[Atos S.r.l](https://atos.net/en/)
+
+Rome, Italy
+
+05/2016 – 06/2016
+
+### Interviewer
+
+[VALMON S.r.l](http://www.valmonsrl.it/) spin-off projects with the [University of Florence](https://www.unifi.it/)
+
+Veneto, Italy
+
+06/2013 – 08/2013
+
+- conducting interviews in the context of the international European Social Survey (ESS) Round 6 Italy, a survey designed to describe and explain the attitudes, opinions, and behaviors of different European populations
+
 Educational Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Psicostat
+### [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/)
 
 University of Padua
 
@@ -164,7 +201,7 @@ Padua, Italy
 
 2017 - Present
 
-### Interactive visualisation with R Shiny
+### [Interactive visualisation with R Shiny](https://www.vvsor.nl/statistics-communication/events/workshop-r-shiny/)
 
 Leiden University
 
@@ -174,7 +211,7 @@ Leiden, Netherlands.
 
 ### Stochastic calculus of variations and normal approximations
 
-27th Jyväskylä Summer School
+[27th Jyväskylä Summer School](http://users.jyu.fi/~tamaraja/JSS_MAnET/)
 
 Jyvaskyla, Finland
 
@@ -182,7 +219,7 @@ Jyvaskyla, Finland
 
 ### Value of information analysis in spatial model
 
-27th Jyväskylä Summer School
+[27th Jyväskylä Summer School](http://users.jyu.fi/~tamaraja/JSS_MAnET/)
 
 Jyvaskyla, Finland
 
@@ -190,7 +227,7 @@ Jyvaskyla, Finland
 
 ### Online Social Media Analytics
 
-27th Jyväskylä Summer School
+[27th Jyväskylä Summer School](http://users.jyu.fi/~tamaraja/JSS_MAnET/)
 
 Jyvaskyla, Finland
 
@@ -254,7 +291,7 @@ Talks {data-icon=chalkboard-teacher}
 
 ### Quot capita, tot sententiae. Don't Forget to Use Anatomical Features into the Alignment of fMRI Data
 
-Cognitive Science Arena. 
+[Cognitive Science Arena](https://cogsci.unibz.it/program.html) 
 
 Brixen, Italy
 
@@ -262,7 +299,7 @@ Brixen, Italy
 
 ### A Statistical approach to the alignment of fMRI data
 
-6th European Student Conference on Behaviour & Cognition 
+[6th European Student Conference on Behaviour & Cognition](https://escbc.org/)
 
 Padua, Italy
 
@@ -270,7 +307,7 @@ Padua, Italy
 
 ### First steps with Python
 
-Psicostat 3.1
+[Psicostat 3.1](http://ip146179.psy.unipd.it/psicostat/web/psicostat3_1.html)
 
 Padua, Italy
 
@@ -278,7 +315,7 @@ Padua, Italy
 
 ### A Statistical approach to the alignment of fMRI data
 
-12th IBS - Italian Region conference
+[12th IBS - Italian Region conference](https://ibs-italy.org/?page_id=922&lang=en)
 
 Naples, Italy
 
@@ -294,7 +331,7 @@ Leiden, Netherlands
 
 ### A Statistical approach to the alignment of fMRI data
 
-Psicostat 3.0
+[Psicostat 3.0](http://ip146179.psy.unipd.it/psicostat/web/psicostat3.html)
 
 Padua, Italy
 
@@ -330,16 +367,6 @@ N/A
 
 N/A
 
-Other Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Data analyst
-
-[Optima Italia](http://www.optimaitalia.com/)
-
-Naples, Italy
-
-06/2016 – 07/2017
 
 Honours and awards {data-icon=award}
 --------------------------------------------------------------------------------
@@ -351,3 +378,31 @@ N/A
 N/A
 
 2012
+
+Certification {data-icon=certificate}
+--------------------------------------------------------------------------------
+
+### SQL Fundamental Course
+
+[SoL - Society for Organizational Learning - Italy](https://www.solonline.org/)
+
+N/A
+
+2016
+
+### Security training course 
+
+[University of Padova](www.unipd.it)
+
+N/A
+
+2015
+
+
+### Certificate of Interviewer
+
+[VALMON S.r.l](http://www.valmonsrl.it/)
+
+N/A
+
+2013
