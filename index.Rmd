@@ -56,11 +56,11 @@ Angela Andreella {#title}
 
 ### PhD Student - [University of Padova](www.unipd.it)
 
-I am a Ph.D. student at the Department of Statistical Sciences of the University of Padova [Cycle XXXIII](https://www.stat.unipd.it/ricerca/cicli-attivi). I am working with Professor [Livio Finos](http://livioivil.github.io/) about statistical methods that can improve the analysis in the Neuroscience field. Mainly, my interest is to connect the psychological and statistical areas to improve both aspects. For that, I am a member of the [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/) group at the University of Padua.
+I am a Ph.D. student at the Department of Statistical Sciences of the University of Padova, [Cycle XXXIII](https://www.stat.unipd.it/ricerca/cicli-attivi). I am working with Professor [Livio Finos](http://livioivil.github.io/) about statistical methods to analyze neuroscience data, e.g. fMRI data. Mainly, my interest is to connect the psychological and statistical fields improving both areas. For that, I am a member of the [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/) group at the University of Padua.
 
-A first project is about a spatial regularization of the Procrustes method used in the alignment of brain data coming from different subjects. I am collaborating with Professor [James Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html) from the Department of Psychological and Brain Sciences at Dartmouth College and with the  [Haxby Lab](http://haxbylab.dartmouth.edu/index.html).
+One project is about a spatial regularization of the Procrustes method used in the functional alignment of brain data. I am collaborating with Professor [James Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html) from the Department of Psychological and Brain Sciences at Dartmouth College and with the [Haxby Lab](http://haxbylab.dartmouth.edu/index.html).
 
-Another project is about a permutation approach to the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) under also the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the department of Psychology at Leiden University.
+Another project is about a permutation approach of the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) method under the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the Department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the Department of Psychology at Leiden University.
 
 **INTERESTS**:
 
@@ -70,6 +70,7 @@ Another project is about a permutation approach to the [All Resolution Inference
 - Permutation Tests
 - Procrustes Methods
 - Statistic applied in Neuroscience
+- Multivariate analysis
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -108,7 +109,7 @@ Thesis: Twitter Sentiment Analysis in Monti's 2013 election campaign.
 Study visits {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Visiting PHD Student
+### Visiting PhD Student
 
 LUMC, Department of Biomedical Data Sciences. 
 
@@ -116,7 +117,7 @@ Leiden, Netherlands.
 
 04/2019 - 07/2019
 
-### Visiting PHD Student
+### Visiting PhD Student
 
 Dartmouth College, Department of Psychological and Brain Sciences.
 
