@@ -7,16 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <meta name="author" content="Angela Andreella" />
-    <meta name="date" content="2020-03-06" />
+    <meta name="date" content="2020-05-01" />
     <title>Angela Andreella</title>
 
     
         <link href="index_files/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
     <link href="index_files/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
-    <link href="index_files/paged-0.8.1/css/resume.css" rel="stylesheet" />
-    <script src="index_files/paged-0.8.1/js/config.js"></script>
-    <script src="index_files/paged-0.8.1/js/paged.js"></script>
-    <script src="index_files/paged-0.8.1/js/hooks.js"></script>
+    <link href="index_files/paged-0.9/css/resume.css" rel="stylesheet" />
+    <script src="index_files/paged-0.9/js/config.js"></script>
+    <script src="index_files/paged-0.9/js/paged.js"></script>
+    <script src="index_files/paged-0.9/js/hooks.js"></script>
     
     
   </head>
@@ -53,7 +53,7 @@
 <div id="disclaimer" class="section level2">
 <h2>Disclaimer</h2>
 <p>This resume was made with the R package <a href="https://github.com/rstudio/pagedown"><strong>pagedown</strong></a>.</p>
-<p>Last updated on 2020-03-06.</p>
+<p>Last updated on 2020-05-01.</p>
 </div>
 </div>
 <div id="main" class="section level1">
@@ -203,15 +203,15 @@
 </div>
 <div id="publications" class="section level2" data-icon="file">
 <h2>Publications</h2>
-<div id="permutation-based-closed-testing-in-fmri-data." class="section level3">
-<h3>Permutation-based closed testing in fMRI data.</h3>
+<div id="permutation-based-closed-testing-in-functional-magnetic-resonance-imaging-data." class="section level3">
+<h3>Permutation-based closed testing in functional Magnetic Resonance Imaging data.</h3>
 <p>To be submitted</p>
 <p>N/A</p>
 <p>2019</p>
 <p><strong>Andreella, A.</strong>, Goeman, J., Weeda, W., Hemerik, J., Solari, A., and Finos, L.</p>
 </div>
-<div id="modelling-the-procrustes-problem-inserting-prior-information-with-an-application-to-fmri-studies." class="section level3">
-<h3>Modelling the Procrustes Problem inserting Prior Information with an application to fMRI Studies.</h3>
+<div id="the-fisher-procrustes-model-in-functional-magnetic-resonance-imaging-data." class="section level3">
+<h3>The Fisher-Procrustes model in functional Magnetic Resonance Imaging data.</h3>
 <p>To be submitted</p>
 <p>N/A</p>
 <p>2019</p>
@@ -229,7 +229,7 @@
 <p>Nutrients <a href="https://doi.org/10.3390/nu12030708">doi: 10.3390/nu12030708</a></p>
 <p>N/A</p>
 <p>2020</p>
-<p>Ciappolino, V. and DelVecchio, G. and Prunas, C. and Andreella, A. and Finos, L. and Caletti, E. and Siri, F. and Mazzocchi, A. and Botturi, A. and Turolo, S. and Agostoni, C. and Brambilla, P.</p>
+<p>Ciappolino, V. and DelVecchio, G. and Prunas, C. and <strong>Andreella, A.</strong> and Finos, L. and Caletti, E. and Siri, F. and Mazzocchi, A. and Botturi, A. and Turolo, S. and Agostoni, C. and Brambilla, P.</p>
 </div>
 <div id="altered-syntactic-abilities-in-rst-episode-patients-an-inner-phenomenon-characterizing-psychosis.-european-psychiatry." class="section level3">
 <h3>Altered syntactic abilities in rst episode patients: An inner phenomenon characterizing psychosis. European Psychiatry.</h3>
@@ -368,8 +368,11 @@
     if (i === 0 && el.id === 'title') continue;
     el.className += ' main-block';
     if (el.dataset['concise']) el.className += ' concise';
-    s = el.dataset['icon'] || 'bookmark';
-    el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    // if there is no icon, add an icon:
+    if (el.firstElementChild.firstChild && el.firstElementChild.firstChild.nodeName !== 'I') {
+      s = el.dataset['icon'] || 'bookmark';
+      el.firstElementChild.insertBefore(create_el('i', 'fa fa-' + s), el.firstElementChild.firstChild);
+    }
   }
 
   // tweak class names of blocks in sections

@@ -236,7 +236,7 @@ Jyvaskyla, Finland
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Permutation-based closed testing in fMRI data.
+### Permutation-based closed testing in functional Magnetic Resonance Imaging data.
 
 To be submitted
 
@@ -246,7 +246,7 @@ N/A
 
 **Andreella, A.**, Goeman, J., Weeda, W., Hemerik, J., Solari, A., and Finos, L.
 
-### Modelling the Procrustes Problem inserting Prior Information with an application to fMRI Studies.
+### The Fisher-Procrustes model in functional Magnetic Resonance Imaging data.
 
 To be submitted
 
@@ -274,7 +274,7 @@ N/A
 
 2020
 
-Ciappolino, V. and DelVecchio, G. and Prunas, C. and Andreella, A. and Finos, L. and Caletti, E. and Siri, F. and Mazzocchi, A. and Botturi, A. and Turolo, S. and Agostoni, C. and Brambilla, P.
+Ciappolino, V. and DelVecchio, G. and Prunas, C. and **Andreella, A.** and Finos, L. and Caletti, E. and Siri, F. and Mazzocchi, A. and Botturi, A. and Turolo, S. and Agostoni, C. and Brambilla, P.
 
 ### Altered syntactic abilities in rst episode patients: An inner phenomenon characterizing psychosis. European Psychiatry.
 
