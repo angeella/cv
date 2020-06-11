@@ -67,11 +67,11 @@ I am also collaborating with [Paolo Brambilla](https://orcid.org/0000-0002-4021-
 **INTERESTS**:
 
 ::: concise
-- High Dimensional Statistics in Neuroscience 
-- Multiple Testing in Psychology, Psychiatry and Neuroscience 
-- Permutation Tests in Psychology, Psychiatry and Neuroscience 
+- High Dimensional Statistics in Neuroscience and Medicine in general 
+- Multiple Testing in Psychology, Psychiatry, Neuroscience and Medicine in general 
+- Permutation Tests in Psychology, Psychiatry, Neuroscience and Medicine in general
 - Procrustes Methods in Neuroscience
-- Multivariate analysis in Psychology and Psychiatry
+- Multivariate analysis in Psychology, Psychiatry, Neuroscience and Medicine in general
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -133,6 +133,17 @@ Hanover, NH, USA.
 Barcelona, Spain.
 
 09/2013 - 07/2014
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Tutor M-PSI/03
+
+[Department of Developmental Psychology and Socialization, University of Padua, Italy](https://www.unipd.it/en/university/scientific-and-academic-structures/departments/department-developmental-psychology-and)
+
+Padua, Italy
+
+10/2020 - 09/2020
 
 Research and Internship Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -242,27 +253,37 @@ To be submitted
 
 N/A
 
-2019
+2020
 
 **Andreella, A.**, Goeman, J., Weeda, W., Hemerik, J., Solari, A., and Finos, L.
 
 ### The Fisher-Procrustes model in functional Magnetic Resonance Imaging data.
 
-To be submitted
+Submitted
 
 N/A
 
-2019
+2020
 
 **Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
 
-### How to improve the functional alignment of fMRI data usingspatial brain information?
+### How to improve the functional alignment of fMRI data using spatial brain information?
 
 To be submitted
 
 N/A
 
-2019
+2020
+
+**Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
+
+### A Statistical Approach to the Alignment of fMRI Data
+
+Book of short papers - SIS 2020
+
+N/A
+
+2020
 
 **Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
 
@@ -331,7 +352,7 @@ Naples, Italy
 
 07/2019
 
-### A Statistical approach to the alignment of fMRI data
+### How to improve the functional alignment of fMRI data usingspatial brain information?
 
 HighDim reading club
 
@@ -358,6 +379,22 @@ Hanover, New Hampshire, USA
 Posters {data-icon=file}
 --------------------------------------------------------------------------------
 
+### Improving the functional alignment of fMRI data usingspatial brain information
+
+Organization for Human Brain Mapping (OHBM)
+
+Virtual conference
+
+06/2020
+
+### PRDA package: Enhancing Statistical Inference via Prospective and Retrospective Design Analysis
+
+European R users meeting (eRum)
+
+Virtual conference
+
+06/2020
+
 ### A Statistical approach to the alignment of fMRI data
 
 Zero Tre, Prospettive e Nuove Ricerche in Psicometria
@@ -377,6 +414,13 @@ N/A
 
 N/A
 
+### Member of Organization for Human Brain Mapping (OHBM)
+
+[Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3267&pageid=3899)
+
+N/A
+
+N/A
 
 Honours and awards {data-icon=award}
 --------------------------------------------------------------------------------
