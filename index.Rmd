@@ -145,6 +145,14 @@ Padua, Italy
 
 10/2020 - 09/2020
 
+### Master's Lesson about Permutation-based Cluster-Mass in EEG data
+
+[Department of Statistical Sciences, University of Padua, Italy](https://www.stat.unipd.it/)
+
+Padua, Italy
+
+06/2020
+
 Research and Internship Experience {data-icon=laptop}
 --------------------------------------------------------------------------------
 
