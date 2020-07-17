@@ -21,7 +21,7 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> a.andreella8@gmail.com
 - <i class="fa fa-envelope"></i> angela.andreella@phd.unipd.it
 - <i class="fa fa-github"></i> [github.com/angeella](https://github.com/angeella)
-- <i class="fa fa-twitter"></i> [angeella](https://twitter.com/angeella)
+- <i class="fa fa-twitter"></i> [aangeella](https://twitter.com/aangeella)
 - <i class="fa fa-globe"></i> [angelaandreella.netlify.com](https://angelaandreella.netlify.com/)
 
 Languages {#skills}
@@ -40,6 +40,7 @@ Computer Skills {#skills}
 
 - **Other software**: LaTeX - Gimp - FSL - GIT
 
+
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
@@ -56,21 +57,21 @@ Angela Andreella {#title}
 
 ### PhD Student - [University of Padova](www.unipd.it)
 
-I am a Ph.D. student at the Department of Statistical Sciences of the University of Padova, [Cycle XXXIII](https://www.stat.unipd.it/ricerca/cicli-attivi). I am working with Professor [Livio Finos](http://livioivil.github.io/) about statistical methods to analyze neuroscience data, e.g. fMRI data. Mainly, my interest is to connect the psychological and statistical fields improving both areas. For that, I am a member of the [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/) group at the University of Padua.
+I am a Ph.D. student at the Department of Statistical Sciences of the University of Padova, [Cycle XXXIII](https://www.stat.unipd.it/ricerca/cicli-attivi). I am working with Professor [Livio Finos](http://livioivil.github.io/) about statistical methods to analyze neuroscience data, e.g., fMRI data. Mainly, my interest is to connect the psychological and statistical fields improving both areas. For that, I am a member of the [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/) group at the University of Padua.
 
-One project is about a spatial regularization of the Procrustes method used in the functional alignment of brain data. I am collaborating with Professor [James Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html) from the Department of Psychological and Brain Sciences at Dartmouth College and with the [Haxby Lab](http://haxbylab.dartmouth.edu/index.html).
+One project is about a spatial regularization of the Procrustes method used in the functional alignment of brain data, i.e., the von Mises-Fisher-Procrustes model. I am collaborating with Professor [James Haxby](http://haxbylab.dartmouth.edu/ppl/jim.html) from the Department of Psychological and Brain Sciences at Dartmouth College and with the [Haxby Lab](http://haxbylab.dartmouth.edu/index.html).
 
-Another project is about a permutation approach of the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) method under the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the Department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the Department of Psychology at Leiden University.
+Another project is about a permutation-based approach of the [All Resolution Inference](https://www.sciencedirect.com/science/article/abs/pii/S105381191830675X) method under the supervision of Professor [Jelle Goeman](https://www.universiteitleiden.nl/en/staffmembers/jelle-goeman#tab-1) from the Department of Biomedical Data Sciences and Professor [Wouter Weeda](https://www.universiteitleiden.nl/en/staffmembers/wouter-weeda#tab-1) from the Department of Psychology at Leiden University.
 
 I am also collaborating with [Paolo Brambilla](https://orcid.org/0000-0002-4021-8456) and [Giuseppe Delvecchio](https://orcid.org/0000-0003-4750-1980) on various psychiatrical and psychological projects.
 
 **INTERESTS**:
 
 ::: concise
-- High Dimensional Statistics in Neuroscience and Medicine in general 
-- Multiple Testing in Psychology, Psychiatry, Neuroscience and Medicine in general 
-- Permutation Tests in Psychology, Psychiatry, Neuroscience and Medicine in general
-- Procrustes Methods in Neuroscience
+- High Dimensional Statistics in Neuroscience, and Medicine in general; 
+- Multiple Testing and Selective Inference in Psychology, Psychiatry, Neuroscience, and Medicine in general;
+- Permutation Tests in Psychology, Psychiatry, Neuroscience, and Medicine in general;
+- Procrustes Methods in Neuroscience;
 - Multivariate analysis in Psychology, Psychiatry, Neuroscience and Medicine in general
 :::
 
@@ -255,7 +256,7 @@ Jyvaskyla, Finland
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Permutation-based closed testing in functional Magnetic Resonance Imaging data.
+### Permutation-based True Discovery Proportions for fMRI Cluster Analysis.
 
 To be submitted
 
@@ -265,7 +266,7 @@ N/A
 
 **Andreella, A.**, Goeman, J., Weeda, W., Hemerik, J., Solari, A., and Finos, L.
 
-### The Fisher-Procrustes model in functional Magnetic Resonance Imaging data.
+### The von Mises-Fisher-Procrustes model in functional Magnetic Resonance Imaging data.
 
 Submitted
 
@@ -273,9 +274,9 @@ N/A
 
 2020
 
-**Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
+**Andreella, A.**, and Finos, L.
 
-### How to improve the functional alignment of fMRI data using spatial brain information?
+### Improving the Functional Alignment of fMRI Data Using Spatial Brain Information
 
 To be submitted
 
@@ -387,7 +388,7 @@ Hanover, New Hampshire, USA
 Posters {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Improving the functional alignment of fMRI data usingspatial brain information
+### Improving the Functional Alignment of fMRI Data Using Spatial Brain Information
 
 Organization for Human Brain Mapping (OHBM)
 
@@ -468,3 +469,30 @@ N/A
 N/A
 
 2013
+
+Author/Contributor of the following packages for R/Python {data-icon=laptop}
+--------------------------------------------------------------------------------
+    
+### [ARIpermutation](https://github.com/angeella/ARIpermutation)
+
+N/A
+
+N/A
+
+### [PRDA](https://github.com/masspastore/PRDA) 
+
+N/A
+
+N/A
+
+### [vMFPmodel](https://github.com/angeella/vMFPmodel) 
+
+N/A
+
+N/A
+
+### [ARIeeg](https://github.com/angeella/ARIeeg)
+
+N/A
+
+N/A
