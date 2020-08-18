@@ -20,6 +20,7 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> a.andreella8@gmail.com
 - <i class="fa fa-envelope"></i> angela.andreella@phd.unipd.it
+- <i class="fa fa-phone" aria-hidden="true"></i> +393348250566
 - <i class="fa fa-github"></i> [github.com/angeella](https://github.com/angeella)
 - <i class="fa fa-twitter"></i> [aangeella](https://twitter.com/aangeella)
 - <i class="fa fa-globe"></i> [angelaandreella.netlify.com](https://angelaandreella.netlify.com/)
@@ -46,7 +47,6 @@ Disclaimer {#disclaimer}
 
 This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
-Last updated on `r Sys.Date()`.
 
 
 Main
@@ -72,7 +72,7 @@ I am also collaborating with [Paolo Brambilla](https://orcid.org/0000-0002-4021-
 - Multiple Testing and Selective Inference in Psychology, Psychiatry, Neuroscience, and Medicine in general;
 - Permutation Tests in Psychology, Psychiatry, Neuroscience, and Medicine in general;
 - Procrustes Methods in Neuroscience;
-- Multivariate analysis in Psychology, Psychiatry, Neuroscience and Medicine in general
+- Multivariate analysis in Psychology, Psychiatry, Neuroscience and Medicine in general.
 :::
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -215,19 +215,99 @@ Educational Experience {data-icon=chalkboard-teacher}
 
 ### [Psicostat](http://ip146179.psy.unipd.it/psicostat/web/)
 
-University of Padua
+University of Padova
 
-Padua, Italy
+Padova, Italy
 
 2017 - Present
+
+### [Statistical Consulting](https://www.stat.unipd.it/ricerca/dottorato-di-ricerca/courses-seminars-and-events/statistical-consulting)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2020
 
 ### [Interactive visualisation with R Shiny](https://www.vvsor.nl/statistics-communication/events/workshop-r-shiny/)
 
 Leiden University
 
-Leiden, Netherlands.
+Leiden, Netherlands
 
 2019
+
+### [Bayesian Data Analysis and Computation](https://www.stat.unipd.it/sites/dipartimenti.it/files/Liseo_Tancredi_May-June%202018.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2018
+
+### [Variational Approximations in Statistics](https://www.stat.unipd.it/sites/dipartimenti.it/files/WAND_March2018.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2018
+
+### [Sampling Theory](https://www.stat.unipd.it/sites/dipartimenti.it/files/Perri_Febbr2018.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2018
+
+### [Mortality : Empirical Analysis and Forecasting Models](https://www.stat.unipd.it/sites/dipartimenti.it/files/Millossovich_Febr2018_1.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2018
+
+### [Regression Modelling with Large Data Sets](https://www.stat.unipd.it/sites/dipartimenti.it/files/Kosmidis_May2018_1.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2018
+
+### [Kalman Filter and State Space Models](https://www.stat.unipd.it/sites/dipartimenti.it/files/KOOPMAN_July2018.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2018
+
+### [An Introduction to Missing Data Handling](https://www.stat.unipd.it/sites/dipartimenti.it/files/Paccagnella_June2018_0.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2018
+
+### [Programming with Python](https://www.stat.unipd.it/sites/default/files/DiGaspero_Ott-Nov2017.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2017
+
+### [Statistical Learning and Data Science](https://www.stat.unipd.it/sites/default/files/HASTIE_October2017.pdf)
+
+University of Padova, Department of Statistical Sciences
+
+Padova, Italy
+
+2017
 
 ### Stochastic calculus of variations and normal approximations
 
@@ -256,7 +336,7 @@ Jyvaskyla, Finland
 Publications {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Permutation-based True Discovery Proportions for fMRI Cluster Analysis.
+### Permutation-based true discovery proportions for fMRI cluster analysis.
 
 To be submitted
 
@@ -276,7 +356,7 @@ N/A
 
 **Andreella, A.**, and Finos, L.
 
-### Improving the Functional Alignment of fMRI Data Using Spatial Brain Information
+### Visualizing the structural neuroanatomy of functional aligned fMRI data: the von Mises-Fisher-Procrustes model.
 
 To be submitted
 
@@ -286,9 +366,9 @@ N/A
 
 **Andreella, A.**, Feilong, M., Halchenko, Y., Haxby, J. V. L., and Finos, L.
 
-### A Statistical Approach to the Alignment of fMRI Data
+### A Statistical Approach to the Alignment of fMRI Data.
 
-Book of short papers - SIS 2020
+To appear on Book of short papers - SIS 2020
 
 N/A
 
@@ -306,7 +386,7 @@ N/A
 
 Ciappolino, V. and DelVecchio, G. and Prunas, C. and **Andreella, A.** and Finos, L. and Caletti, E. and Siri, F. and Mazzocchi, A. and Botturi, A. and Turolo, S. and Agostoni, C. and Brambilla, P.
 
-### Altered syntactic abilities in rst episode patients: An inner phenomenon characterizing psychosis. European Psychiatry.
+### Altered syntactic abilities in rst episode patients: An inner phenomenon characterizing psychosis. 
 
 European Psychiatry [doi: 10.1016/j.eurpsy.2019.08.001](https://doi.org/10.1016/j.eurpsy.2019.08.001)
 
@@ -390,7 +470,7 @@ Posters {data-icon=file}
 
 ### Improving the Functional Alignment of fMRI Data Using Spatial Brain Information
 
-Organization for Human Brain Mapping (OHBM)
+[Organization for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/files/2020/OHBM_2020_Virtual_Abstracts_2.pdf)
 
 Virtual conference
 
@@ -398,7 +478,7 @@ Virtual conference
 
 ### PRDA package: Enhancing Statistical Inference via Prospective and Retrospective Design Analysis
 
-European R users meeting (eRum)
+[European R users meeting (eRum)](https://github.com/Milano-R/erum2020program#conference-materials)
 
 Virtual conference
 
@@ -496,3 +576,9 @@ N/A
 N/A
 
 N/A
+
+
+ {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+Autorizzo il trattamento dei miei dati personali presenti nel curriculum vitae ai sensi del Decreto Legislativo 30 giugno 2003, n. 196 e del GDPR (Regolamento UE 2016/679).
