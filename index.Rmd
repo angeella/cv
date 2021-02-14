@@ -138,13 +138,13 @@ Barcelona, Spain.
 Teaching Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Tutor M-PSI/03
+### Tutor - Psychometry - Bachelor Degree of Psychological Sciences of Development Personality and Interpersonal relations
 
-[Department of Developmental Psychology and Socialization, University of Padua, Italy](https://www.unipd.it/en/university/scientific-and-academic-structures/departments/department-developmental-psychology-and)
+[Department of Developmental Psychology and Socialization](https://www.psicologia.unipd.it/)
 
 Padua, Italy
 
-10/2020 - 09/2020
+10/2020 - 01/2021
 
 ### Master's Lesson about Permutation-based Cluster-Mass in EEG data
 
@@ -182,7 +182,7 @@ Working Experience {data-icon=suitcase}
 
 Italy
 
-09/2015 – now
+09/2015 - now
 
 ### Data analyst
 
@@ -190,7 +190,7 @@ Italy
 
 Naples, Italy
 
-06/2016 – 07/2017
+06/2016 - 07/2017
 
 ### IT Consultant
 
@@ -198,7 +198,7 @@ Naples, Italy
 
 Rome, Italy
 
-05/2016 – 06/2016
+05/2016 - 06/2016
 
 ### Interviewer
 
@@ -206,7 +206,7 @@ Rome, Italy
 
 Veneto, Italy
 
-06/2013 – 08/2013
+06/2013 - 08/2013
 
 - conducting interviews in the context of the international European Social Survey (ESS) Round 6 Italy, a survey designed to describe and explain the attitudes, opinions, and behaviors of different European populations
 
@@ -221,7 +221,7 @@ Padova, Italy
 
 2017 - Present
 
-### [Statistical Consulting](https://www.stat.unipd.it/ricerca/dottorato-di-ricerca/courses-seminars-and-events/statistical-consulting)
+### [Statistical Consulting](https://www.stat.unipd.it/ricerca/dottorato-di-ricerca/courses-seminars-and-events/statistical-consulting) - [COVID-19 analysis](https://github.com/angeella/Lockdown_policies_COVID19)
 
 University of Padova, Department of Statistical Sciences
 
@@ -348,7 +348,7 @@ N/A
 
 ### The von Mises-Fisher-Procrustes model in functional Magnetic Resonance Imaging data.
 
-Submitted
+To be submitted
 
 N/A
 
@@ -368,7 +368,7 @@ N/A
 
 ### A Statistical Approach to the Alignment of fMRI Data.
 
-To appear on Book of short papers - SIS 2020
+[Book of short papers - SIS 2020](https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Universit%C3%A0/Pearson-SIS-2020-atti-convegno.pdf)
 
 N/A
 
@@ -386,7 +386,7 @@ N/A
 
 Ciappolino, V. and DelVecchio, G. and Prunas, C. and **Andreella, A.** and Finos, L. and Caletti, E. and Siri, F. and Mazzocchi, A. and Botturi, A. and Turolo, S. and Agostoni, C. and Brambilla, P.
 
-### Altered syntactic abilities in rst episode patients: An inner phenomenon characterizing psychosis. 
+### Altered syntactic abilities in first episode patients: An inner phenomenon characterizing psychosis. 
 
 European Psychiatry [doi: 10.1016/j.eurpsy.2019.08.001](https://doi.org/10.1016/j.eurpsy.2019.08.001)
 
@@ -408,6 +408,14 @@ Caletti, E., Delvecchio, G., **Andreella, A.**, Finos, L., Perlini, C., Tavano, 
 
 Talks {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+### pARI package: valid double-dipping via permutation-based All Resolutions Inference
+
+[EuroBioC2020](https://eurobioc2020.bioconductor.org/conference_schedule.html) 
+
+Virtual conference
+
+12/2020
 
 ### Quot capita, tot sententiae. Don't Forget to Use Anatomical Features into the Alignment of fMRI Data
 
@@ -553,7 +561,7 @@ N/A
 Author/Contributor of the following packages for R/Python {data-icon=laptop}
 --------------------------------------------------------------------------------
     
-### [ARIpermutation](https://github.com/angeella/ARIpermutation)
+### [pARI](https://github.com/angeella/pARI)
 
 N/A
 
